@@ -7,6 +7,6 @@ This electronic badge was designed to help students learn about basic electronic
 * [Assembly Instructions]()
 
 ## Resources
-* [Datasheets]() - All of the nerdy specs on the components we used.
+* [Datasheets](https://github.com/DSUmjham/I-Can-Solder-Badge/tree/main/Datasheets) - All of the nerdy specs on the components we used.
 * [OSH Park](https://oshpark.com) -  PCB manufacture located in the US.
 * [JLCPCB](https://jlcpcb.com) - PCB manufacture located overseas.
