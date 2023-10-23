@@ -12,3 +12,19 @@ The order of assembly is not critical, but this approach should work well:
 	 5. [White LED](https://docs.google.com/viewer?url=https://github.com/DSUmjham/I-Can-Solder-Badge/raw/main/Datasheets/QBL8IW30C-CW.pdf)
 	 6. [Blue LED](https://docs.google.com/viewer?url=https://github.com/DSUmjham/I-Can-Solder-Badge/raw/main/Datasheets/C503B-BCN-CV0Z0461.pdf)
 ![Badge components labeled](https://github.com/DSUmjham/I-Can-Solder-Badge/raw/main/Images/assembly01.jpeg?raw=true)
+
+2. Install the battery holder. This is the only piece that is inserted through the back side and soldered on the front of the badge. 
+
+   **Hint:** When soldering, place something under the badge, like the battery, to keep it from rocking.
+
+3. From here on out, everything other component is inserted through the front of the badge, and soldered on the back side.
+
+4. Next, install the pushbuttons to the **SW1** and **SW2** spots on the PCB.
+
+5. Determine which LED is which. Since both LEDs are clear, you will need to test them with the battery to see thier colors. 
+
+6. Solder the white LED onto the badge. The shorter leg of the LED is the negative side (cathode). This should go through the square pad on the left-hand side of **D1** or **D2**; the two spots are interchangable. Another way to check, is to ensure the flat edge of the LED aligns with the shape of the silkscreen.
+
+7. Solder the blue LED into the remaining spot on the badge (**D1** or **D2**). Again, the shorter leg (cathode) will go through the square solder pad.
+
+8. Install the battery. The negative side of the battery will touch the PCB, and the positive side will rest against the battery holder.
