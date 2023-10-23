@@ -11,4 +11,4 @@ The order of assembly is not critical, but this approach should work well:
 	 4. [Pushbutton (x2)](https://docs.google.com/viewer?url=https://github.com/DSUmjham/I-Can-Solder-Badge/raw/main/Datasheets/MJTP1230.pdf)
 	 5. [White LED](https://docs.google.com/viewer?url=https://github.com/DSUmjham/I-Can-Solder-Badge/raw/main/Datasheets/QBL8IW30C-CW.pdf)
 	 6. [Blue LED](https://docs.google.com/viewer?url=https://github.com/DSUmjham/I-Can-Solder-Badge/raw/main/Datasheets/C503B-BCN-CV0Z0461.pdf)
-![Badge components labeled](https://github.com/DSUmjham/I-Can-Solder-Badge/blob/main/Images/assembly01.jpeg?raw=true)
+![Badge components labeled](https://github.com/DSUmjham/I-Can-Solder-Badge/raw/main/Images/assembly01.jpeg?raw=true)
