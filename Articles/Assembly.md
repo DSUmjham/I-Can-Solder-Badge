@@ -26,17 +26,17 @@ The order of assembly is not critical, but this approach should work well:
 ![Pushbuttons](https://github.com/DSUmjham/I-Can-Solder-Badge/raw/main/Images/assembly04.png?raw=true)
 ![Soldering pushbutton](https://github.com/DSUmjham/I-Can-Solder-Badge/raw/main/Images/assembly05.png?raw=true)
 
-5. Determine which LED is which. Since both LEDs are clear, you will need to test them with the battery to see their colors. Place the long leg of the LED (positive/anode) on the positive side of the battery, and the short leg (cathode/negative) on the other side. If it doesn't light up, flip it around.
+5. Determine which LED is which. Since both LEDs are clear, test them with the battery to see their colors. Place the long lead of the LED (positive/anode) on the positive side of the battery and the short lead (cathode/negative) on the other side. If it doesn't light up, flip it around.
 ![LEDs on battery](https://github.com/DSUmjham/I-Can-Solder-Badge/raw/main/Images/assembly06.png?raw=true)
 
-6. Solder the white LED onto the badge. The shorter leg of the LED is the negative side (cathode). This should go through the square pad on the left-hand side of **D1** or **D2**; the two spots are interchangable. Another way to check, is to ensure the flat edge of the LED aligns with the shape of the silkscreen.
+6. Solder the white LED onto the badge. The shorter lead of the LED is the negative side (cathode). This should go through the square pad on the left-hand side of **D1** or **D2**; the two spots are interchangeable. Another way to check is to ensure the LED’s flat edge aligns with the silkscreen’s shape.
 ![LEDs](https://github.com/DSUmjham/I-Can-Solder-Badge/raw/main/Images/assembly07.png?raw=true)
 ![Solder white LED](https://github.com/DSUmjham/I-Can-Solder-Badge/raw/main/Images/assembly08.png?raw=true)
 
-7. Solder the blue LED into the remaining spot on the badge (**D1** or **D2**). Again, the shorter leg (cathode) will go through the square solder pad.
+7. Solder the blue LED into the remaining spot on the badge (**D1** or **D2**). Again, the shorter lead (cathode) will go through the square solder pad.
 ![Solder blue LED](https://github.com/DSUmjham/I-Can-Solder-Badge/raw/main/Images/assembly09.png?raw=true)
 
-8. Using a sidecutter, trim the legs of the LEDs. You do not need to trim any of the other components.
+8. Using a sidecutter, trim the leads of the LEDs. You do not need to trim any of the other components.
 ![Trim LED](https://github.com/DSUmjham/I-Can-Solder-Badge/raw/main/Images/assembly10.png?raw=true)
 
 9. Install the battery. The negative side of the battery will touch the PCB, and the positive side will rest against the battery holder.
